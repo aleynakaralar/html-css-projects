@@ -1,0 +1,27 @@
+table{
+    margin: 30px 5px;
+}
+table,th,td{
+    border: 1px solid black;
+}
+
+caption{
+    text-align: left;
+}
+
+img{
+    border: 3px solid black;
+    width: 150px;
+}
+#secondTitle{
+    height: 20px;
+}
+#tuesday{
+    height: 40px;
+}
+#schedule{
+    width: 150px;
+}
+#topic{
+    width: 220px;
+}
