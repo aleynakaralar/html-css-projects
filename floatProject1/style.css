@@ -29,28 +29,25 @@ div{
 }
 
 main{
-   float: right;
-   width:1290px;
-   
-    
-    
-    
+    display: inline;
+    float:inline-start
 }
 aside{
     float: left;
-    width: 300px;
     background-color: yellow;
-    height: 696px;
+    height: 100vh;
+    width: 30vh;
     display: flex;
-    justify-content: center;
     align-items: center;
+    justify-content: center; 
     
 }
 footer{
-    height: 80px;
-    background-color: gray;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    
-}
+    width: 100%;
+    height: 10vh;
+     background-color: gray;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     
+ }
